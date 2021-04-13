@@ -28,7 +28,7 @@
 
 База данных любая по выбору. Например MySQL или PostgreSQL или SQLite.
 
-Таблица EMPLOYEES
+#### Таблица EMPLOYEES
 |EMPLOYEE_ID| 	FIRST_NAME| 	LAST_NAME| 	DEPARTMENT| 	SALARY|
 |:----:|:----:|:----------:|:----:|:----------:|
 |1|  	           John| 	     Smith|     	Development| 	5000|
