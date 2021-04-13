@@ -16,9 +16,9 @@
 ### Задача: 
 вывести на экран список отделов с суммарной зарплатой сотрудников отдела. Например:
 
-Development: 20000
-Sales: 30000
-Management: 30000
+*Development: 20000
+*Sales: 30000
+*Management: 30000
 
 ### Оформление
 
@@ -30,7 +30,7 @@ Management: 30000
 
 Таблица EMPLOYEES
 |EMPLOYEE_ID| 	FIRST_NAME| 	LAST_NAME| 	DEPARTMENT| 	SALARY|
-|----:|:----:|:----------|:----:|:----------|
+|:----:|:----:|:----------:|:----:|:----------:|
 |1|  	           John| 	     Smith|     	Development| 	5000|
 |2|	           Nick| 	     Johnson|  	Development| 	6000|
 |3| 	           Mary| 	     Johnson|  	Sales| 	      4000|
