@@ -1,4 +1,9 @@
 # RiderSoft
+
+[![Watch te video](https://github.com/levord-22/RiderSoft/blob/main/How_it_works.gif)](https://github.com/levord-22/RiderSoft/blob/main/How_it_works.gif)
+
+
+
 ### Задание:
 
 Написать на Java программу которая выполняет запрос SQL из таблицы базы данных и выводит результат на экран.
